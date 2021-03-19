@@ -6,29 +6,27 @@
       {
         "id": "597f960666068207",
         "type": "leaf",
-        "dimension": 59.56043956043956,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/Build.In Funktionen/Print.md",
+            "file": "Python/Datentypen und Datenstrukturen/Dicts.md",
             "mode": "source"
           }
         },
-        "group": "6c295a14f018a9ee"
+        "group": "325882627cf09182"
       },
       {
-        "id": "57853b7cce00c8e6",
+        "id": "4e807e3839936d5a",
         "type": "leaf",
-        "dimension": 40.43956043956044,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/Build.In Funktionen/Print.md",
+            "file": "Python/Datentypen und Datenstrukturen/Dicts.md",
             "mode": "preview"
           }
         },
-        "group": "6c295a14f018a9ee"
+        "group": "325882627cf09182"
       }
     ],
     "direction": "vertical"
@@ -84,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Build.In Funktionen/Print.md",
+                "file": "Python/Datentypen und Datenstrukturen/Dicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,14 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Python/Datentypen und Datenstrukturen/Untitled.md",
     "Python/Datentypen und Datenstrukturen/Dictionaries.md",
-    "Python/Datentypen und Datenstrukturen/Tupelz.md",
-    "Python/Datentypen und Datenstrukturen/Strings.md",
     "Python/Datentypen und Datenstrukturen/Lists.md",
     "Python/Datentypen und Datenstrukturen/Integer, boolean, char.md",
-    "Python/Datentypen und Datenstrukturen/Untitled 1.md",
-    "Untitled.md",
-    "Python/Datentypen und Datenstrukturen.md"
+    "Python/Build.In Funktionen/Print.md",
+    "Python/Build.In Funktionen/String-Objekte.md",
+    "Python/Build.In Funktionen/Listen.md",
+    "Python/Build.In Funktionen/Untitled.md",
+    "Python/Datentypen und Datenstrukturen/Tupels.md",
+    "Python/Datentypen und Datenstrukturen/Sets.md",
+    "Python/Datentypen und Datenstrukturen/Strings.md"
   ]
 }
