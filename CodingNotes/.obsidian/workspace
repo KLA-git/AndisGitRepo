@@ -4,26 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "bdc63e6733af1e91",
+        "id": "597f960666068207",
         "type": "leaf",
+        "dimension": 59.56043956043956,
         "active": true,
-        "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "group": "443f3d20317c5c06"
-      },
-      {
-        "id": "f8404a877ab3d1fb",
-        "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/Datentypen und Datenstrukturen/Tupelz.md",
+            "file": "Python/Build.In Funktionen/Print.md",
+            "mode": "source"
+          }
+        },
+        "group": "6c295a14f018a9ee"
+      },
+      {
+        "id": "57853b7cce00c8e6",
+        "type": "leaf",
+        "dimension": 40.43956043956044,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Python/Build.In Funktionen/Print.md",
             "mode": "preview"
           }
         },
-        "group": "443f3d20317c5c06"
+        "group": "6c295a14f018a9ee"
       }
     ],
     "direction": "vertical"
@@ -79,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/Build.In Funktionen/Print.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,17 +97,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 290,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Python/Datentypen und Datenstrukturen/Tupelz.md",
-    "Python/Datentypen und Datenstrukturen/Lists.md",
-    "Python/Datentypen und Datenstrukturen/Dictionaries.md",
-    "Python/Datentypen und Datenstrukturen/Strings.md",
-    "Python/Datentypen und Datenstrukturen/Untitled 1.md",
     "Python/Datentypen und Datenstrukturen/Untitled.md",
-    "Untitled.md",
+    "Python/Datentypen und Datenstrukturen/Dictionaries.md",
+    "Python/Datentypen und Datenstrukturen/Tupelz.md",
+    "Python/Datentypen und Datenstrukturen/Strings.md",
+    "Python/Datentypen und Datenstrukturen/Lists.md",
     "Python/Datentypen und Datenstrukturen/Integer, boolean, char.md",
+    "Python/Datentypen und Datenstrukturen/Untitled 1.md",
+    "Untitled.md",
     "Python/Datentypen und Datenstrukturen.md"
   ]
 }
