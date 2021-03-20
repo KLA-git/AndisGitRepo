@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Python/Build.In Funktionen/Generator build in.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "325882627cf09182"
       },
@@ -22,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/Build.In Funktionen/Generator build in.md",
+            "file": "Python/01. Datentypen und Datenstrukturen/Dicts.md",
             "mode": "preview"
           }
         },
@@ -82,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Build.In Funktionen/Generator build in.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +95,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Python/01. Datentypen und Datenstrukturen/Dicts.md",
+    "Python/03 File I_O.md",
     "Python/Build.In Funktionen/Generator build in.md",
     "Python/Build.In Funktionen/Enumerate - build in.md",
     "Python/Build.In Funktionen/Untitled.md",
@@ -106,8 +104,6 @@
     "Python/Datentypen und Datenstrukturen/Dicts.md",
     "Python/Datentypen und Datenstrukturen/Lists.md",
     "Python/File I_O.md",
-    "Python/Build.In Funktionen/Listen build ins.md",
-    "Python/Build.In Funktionen/Dictionaries build ins.md",
-    "Python/Build.In Funktionen/Generator.md"
+    "Python/Build.In Funktionen/Listen build ins.md"
   ]
 }
