@@ -1,6 +1,7 @@
 ### Login Reqeust & co
 #### Inspector copy cUrl --> www.curl.trillworks.com
 https://www.youtube.com/watch?v=ylSc5NLjmM0
+
 ``python
 import requests
 from bs4 import BeautifulSoup
@@ -41,4 +42,4 @@ with requests.Session() as s:
  
     s.post(login_url, data=data, headers=headers)
     
-    ``
+    ```
