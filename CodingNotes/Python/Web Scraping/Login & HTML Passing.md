@@ -1,6 +1,6 @@
 ### Login Reqeust & co
-#### Inspector copy cUrl --> www.curl.trillworks.com
-####### https://www.youtube.com/watch?v=ylSc5NLjmM0
+#### Inspector copy cUrl --> https://curl.trillworks.com/
+###### https://www.youtube.com/watch?v=ylSc5NLjmM0
 
 ```python
 
