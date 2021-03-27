@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/04. Build.In Funktionen/Dictionaries build ins.md",
+            "file": "Python/01. Datentypen und Datenstrukturen/Strings.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/04. Build.In Funktionen/Dictionaries build ins.md",
+            "file": "Python/01. Datentypen und Datenstrukturen/Strings.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/04. Build.In Funktionen/Dictionaries build ins.md",
+                "file": "Python/01. Datentypen und Datenstrukturen/Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Python/04. Build.In Funktionen/Dictionaries build ins.md",
-    "Python/04. Build.In Funktionen/Listen build ins.md",
+    "Python/01. Datentypen und Datenstrukturen/Strings.md",
+    "Python/01. Datentypen und Datenstrukturen/Lists.md",
     "Python/04. Build.In Funktionen/ZIP - function build in.md",
-    "Bildschirmfoto 2021-03-21 um 10.14.23.png",
-    "Bildschirmfoto 2021-03-21 um 10.12.58.png",
-    "Python/04. Build.In Funktionen/Untitled.md",
-    "Python/04. Build.In Funktionen/Enumerate - build in.md",
     "Python/04. Build.In Funktionen/String objs build ins.md",
     "Python/04. Build.In Funktionen/Range - build in.md",
-    "Python/04. Build.In Funktionen/Print function build ins.md"
+    "Python/04. Build.In Funktionen/Print function build ins.md",
+    "Python/04. Build.In Funktionen/Listen build ins.md",
+    "Python/04. Build.In Funktionen/Generator build in.md",
+    "Python/04. Build.In Funktionen/Enumerate - build in.md",
+    "Python/04. Build.In Funktionen/Dictionaries build ins.md"
   ]
 }
