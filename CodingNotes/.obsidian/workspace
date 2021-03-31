@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/01. Datentypen und Datenstrukturen/Strings.md",
+            "file": "Python/01. Datentypen und Datenstrukturen/Lists.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/01. Datentypen und Datenstrukturen/Strings.md",
+            "file": "Python/01. Datentypen und Datenstrukturen/Lists.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/01. Datentypen und Datenstrukturen/Strings.md",
+                "file": "Python/01. Datentypen und Datenstrukturen/Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Python/01. Datentypen und Datenstrukturen/Strings.md",
     "Python/01. Datentypen und Datenstrukturen/Lists.md",
+    "Python/01. Datentypen und Datenstrukturen/Strings.md",
     "Python/04. Build.In Funktionen/ZIP - function build in.md",
     "Python/04. Build.In Funktionen/String objs build ins.md",
     "Python/04. Build.In Funktionen/Range - build in.md",
